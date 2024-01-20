@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
-                and optimized sites. With React, Tailwind CSS, Material UI, TypeScript, JavaScript, HTML and CSS
+                and optimized sites. With React, Tailwind CSS, Material UI, TypeScript, JavaScript, HTML and CSS.
               </p>
             </div>
           </li>
